@@ -1,9 +1,6 @@
 <p align="center">
 <img src="https://github.com/HackZy01/EeveeSpotify/blob/swift/Images/LogoBanner.png" width="65%" />
 </p>
-
-# EeveeSpotify
-
 This tweak makes Spotify think that you have a Premium subscription, granting free listening, just like Spotilife.
 
 ## The History
