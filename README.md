@@ -1,4 +1,6 @@
-![Banner](Images/banner.png)
+<p align="center">
+<img src="https://github.com/HackZy01/EeveeSpotify/blob/swift/Images/LogoBanner.png" width="65%" />
+</p>
 
 # EeveeSpotify
 
