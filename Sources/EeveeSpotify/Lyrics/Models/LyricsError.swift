@@ -1,6 +1,7 @@
 import Foundation
 
-enum GeniusLyricsError: Swift.Error {
+enum LyricsError: Swift.Error {
+    case NoCurrentTrack
     case DecodingError
     case NoSuchSong
 }
